@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?><topic id="1ebd2af3-40a3-4cfc-bfeb-bc62d9d37a77" revisionNumber="5"><developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <introduction address="__top"> 
+	 <mediaLink>
+		<caption /> <image xlink:href="4873755a-8b1e-497e-bc54-101d1e75d3e7" /> <video videotype="single" videoid="73c19e22-b3c5-4bbd-b774-c3031afcb8ce" player="SP_MOD_OfficeCom" /> 
+	 </mediaLink>
+	 <para>Typing in Excel for iPad can be tricky at first, especially if you’re used to a physical keyboard. This training video shows you some typing tips for Excel for iPad. It covers typing text, numbers and formulas.</para>
+  </introduction>
+  <section>
+	 <title>Other tutorial videos for Excel for iPad:</title>
+	 <content>
+		<list class="ordered">
+		  <listItem> 
+			 <para> <link xlink:href="ae803001-a90b-424a-99a2-22ee217fc83a">Open files from the cloud</link>. Open files from OneDrive for Business (for your work or school stuff), OneDrive.com (for your personal stuff), or from a Dropbox account.</para>
+		  </listItem>
+		  <listItem> 
+			 <para> <link xlink:href="ddf3854d-1d67-4af4-82bb-77c79a0bdb3b">Open email attachments</link>. Open, edit, and send back email attachments using Excel for iPad.</para>
+		  </listItem>
+		  <listItem> 
+			 <para> <link xlink:href="ec5199fb-cdb3-4923-9ebf-15cfd5409ef7">How saving works in Excel for iPad</link>. Excel for iPad automatically saves your work every time you make even a small change. In most cases, you don’t have to do anything at all to save your document. Watch this training video to learn about AutoSave.</para>
+		  </listItem>
+		  <listItem> 
+			 <para address="__goback"> <legacyBold>Type in Excel for iPad.</legacyBold> (You are here!) Typing in Excel for iPad can be tricky at first, especially if you’re used to a physical keyboard. This training video shows you some typing tips for Excel for iPad. It covers typing text, numbers and formulas.</para>
+		  </listItem>
+		  <listItem> 
+			 <para> <link xlink:href="e03546e6-80a1-407d-b0d6-a971d1a511aa">Select stuff in Excel for iPad</link>. Select cells, ranges, columns, and rows expertly with your finger in Excel for iPad. This training video helps you move from the mouse to the touchscreen.</para>
+		  </listItem>
+		  <listItem> 
+			 <para> <link xlink:href="11ac00b6-6dca-4250-bdfd-b36c0247fbca">How to print in Excel for iPad</link>. You tap the File button to print in Excel for iPad. Watch this video to learn how. At this time, you can only print to an AirPrint compatible printer.</para>
+		  </listItem>
+		</list>
+	 </content>
+	 <sections /> 
+  </section>
+  <relatedTopics /> 
+</developerConceptualDocument></topic>
